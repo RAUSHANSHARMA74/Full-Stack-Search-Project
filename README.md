@@ -59,15 +59,14 @@ git clone https://github.com/RAUSHANSHARMA74/Full-Stack-Search-Project.git
 
    - Open the `.env` file in a text editor.
    - Add the necessary environment variables for your application. These might include database connection strings, API keys, or any other configuration values. For example:
-     `     
-`
-     `bash
+
+     ```bash
            MONGODB_URL = mongodb+srv://<name>:<password>@test.xhwertd.mongodb.net/databasename
            JWT_SECRET = secret
            EMAIL = Add your gmail
            EMAIL_PASSWORD = Add your gmail app password you can create from heare (link) [Email_password](https://myaccount.google.com/apppasswords?rapt=AEjHL4MYKmV0F-jWyoE2FslJFVVhniY5o5cW8pnxXSV4SabpQbwlRqrl-Q6Rh73vY7U6fKCcVo0O15_-TqvjlWBYRigNJz6Ck-zt1JYG04o4X_IefJGs51A&pli=1)
            FRONTEND_URL = http://localhost:3000
-     `
+     ```
 
 4. **Install Dependencies:**
 
